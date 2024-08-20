@@ -1,4 +1,4 @@
-User Details App
+#User Details App
 Overview:
 The User List App is a straightforward Flutter application that fetches and displays user data from a public API. It’s designed with simplicity and usability in mind, providing a clean interface where users can browse a list of names and emails, refresh the list, and view details of individual users.
 

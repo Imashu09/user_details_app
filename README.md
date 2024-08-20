@@ -10,9 +10,11 @@ User Details: Tap on a user to view more details, including a profile avatar wit
 
 ![s1](https://github.com/user-attachments/assets/a4351604-929d-4202-9e16-f982e1afc800)This is the Home Page
 
-![s3](https://github.com/user-attachments/assets/150e0daa-0ae1-4ac5-97e9-6992acf387bf)This is the detailed section
 
-![s2](https://github.com/user-attachments/assets/c3de6f2e-5a46-4950-b363-8ccec4581a22)Visual of Circular Progressbar
+
+![s2](https://github.com/user-attachments/assets/c3de6f2e-5a46-4950-b363-8ccec4581a22)This is the detailed section
+
+![s3](https://github.com/user-attachments/assets/150e0daa-0ae1-4ac5-97e9-6992acf387bf)Visual of Circular Progressbar
 
 
 Getting Started:

@@ -8,12 +8,12 @@ Pull-to-Refresh: Refresh the list with a simple pull-down gesture.
 Loading & Error Handling: The app shows a loading spinner during data fetches and gracefully handles any errors.
 User Details: Tap on a user to view more details, including a profile avatar with their initial.
 
-![s1](https://github.com/user-attachments/assets/a4351604-929d-4202-9e16-f982e1afc800)
-This is the Home Page
-![s3](https://github.com/user-attachments/assets/150e0daa-0ae1-4ac5-97e9-6992acf387bf)
-This is the detailed section
-![s2](https://github.com/user-attachments/assets/c3de6f2e-5a46-4950-b363-8ccec4581a22)
-Visual of Circular Progressbar
+![s1](https://github.com/user-attachments/assets/a4351604-929d-4202-9e16-f982e1afc800)This is the Home Page
+
+![s3](https://github.com/user-attachments/assets/150e0daa-0ae1-4ac5-97e9-6992acf387bf)This is the detailed section
+
+![s2](https://github.com/user-attachments/assets/c3de6f2e-5a46-4950-b363-8ccec4581a22)Visual of Circular Progressbar
+
 
 Getting Started:
 Clone the repository from GitHub.
